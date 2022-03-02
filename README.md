@@ -1,7 +1,7 @@
 # pico-bmp085Driv
-BMP085/BMP180 library for pico-sdk\
-
-Based on [Adafruit-BMP085-Library](https://github.com/adafruit/Adafruit-BMP085-Library)
+BMP085/BMP180 library for pico-sdk \
+Based on [Adafruit-BMP085-Library](https://github.com/adafruit/Adafruit-BMP085-Library) \
+Examples can be found [here](https://github.com/tvlad1234/pico-bmp085Examples)
 ## Usage
 Add the _pico-bmp085Driv_ subdirectory to the CMakeLists.txt of your project and include the library in _target_link_libraries_.
 ### Initializing the sensor
